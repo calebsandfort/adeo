@@ -1,10 +1,10 @@
 # Boilerplate Documentation
 
-Welcome to the AI-powered full-stack boilerplate documentation. This project provides a production-ready foundation with Next.js, FastAPI, LangGraph, and CopilotKit integration.
+Welcome to the Boilerplate documentation. This project provides a production-ready foundation with Next.js, FastAPI, LangGraph, and CopilotKit integration.
 
 ## Overview
 
-This boilerplate implements a modern AI-powered application architecture:
+Boilerplate implements a modern AI-powered application architecture:
 
 - **Frontend**: Next.js 15 with App Router, Tailwind CSS, ShadCN/ui
 - **Backend**: FastAPI with LangGraph for AI agent orchestration

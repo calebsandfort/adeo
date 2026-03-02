@@ -5,7 +5,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Boilerplate",
-  description: "Full-stack boilerplate with Next.js, FastAPI, and TimescaleDB",
+  description: "AI-powered financial ledger built with Next.js, FastAPI, and TimescaleDB",
 }
 
 export default function RootLayout({

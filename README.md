@@ -1,6 +1,6 @@
-# Full-Stack Boilerplate
+# Boilerplate
 
-A production-ready full-stack boilerplate with Next.js, FastAPI, LangGraph, and CopilotKit.
+A production-ready AI-powered financial ledger built with Next.js, FastAPI, LangGraph, and CopilotKit.
 
 ## Stack
 
@@ -138,7 +138,7 @@ rm -rf .git
 # Initialize a fresh repo
 git init
 git add .
-git commit -m "feat: initial project from boilerplate"
+git commit -m "feat: initial Boilerplate project"
 
 # Connect to your remote
 git remote add origin https://github.com/your-username/your-repo.git

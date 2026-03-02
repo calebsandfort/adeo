@@ -1,6 +1,6 @@
 # Setup Guide
 
-This guide covers the initial setup of the boilerplate project.
+This guide covers the initial setup of the Boilerplate project.
 
 ## Prerequisites
 
